@@ -3,3 +3,4 @@
 **TODO** 
 - Deconstruct Monolyth design patterns 
 - Dependency injections 
+- CORS
