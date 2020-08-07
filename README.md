@@ -5,3 +5,4 @@
 - Dependency injections 
 - CORS
 - Javascript polyfill
+- Javascript design patterns
