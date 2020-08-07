@@ -4,3 +4,4 @@
 - Deconstruct Monolyth design patterns 
 - Dependency injections 
 - CORS
+- Javascript polyfill
